@@ -1,0 +1,18 @@
+
+X.Org X Server 1.18.4
+Release Date: 2016-07-19
+X Protocol Version 11, Revision 0
+Build Operating System: Linux 4.4.0-45-generic x86_64 Ubuntu
+Current Operating System: Linux farm-04l 4.4.0-62-generic #83-Ubuntu SMP Wed Jan 18 14:10:15 UTC 2017 x86_64
+Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-62-generic root=UUID=c532ebb0-80fa-4dee-a6cd-755d453a7024 ro
+Build Date: 02 November 2016  10:06:10PM
+xorg-server 2:1.18.4-0ubuntu0.2 (For technical support please see http://www.ubuntu.com/support) 
+Current version of pixman: 0.33.6
+	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+(==) Log file: "/var/log/Xorg.0.log", Time: Mon Jun 26 23:44:52 2017
+(==) Using config file: "/etc/X11/xorg.conf"
+(==) Using system config directory "/usr/share/X11/xorg.conf.d"
